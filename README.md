@@ -8,23 +8,25 @@
 
 ## 📙 Today I Learned
 
-### 마크다운 문법 (READ.md 작성법)
+### 마크다운 문법
 
 - 정의 : 특수문자를 통해 글을 구조적으로 정리하여 **가독성을 높이는 작성 방법**입니다.
 
 - 특징
+
   - HTML로 쉽게 변환이 가능하지만, 모든 [**마크업 언어**](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EC%97%85_%EC%96%B8%EC%96%B4)을 대신하지 못합니다.
   - 마크업 언어에 비해 **단순한 것**이 특징입니다.
-  - 완성된 프로그램의 설명서
-  - 구현 중인 프로젝트의 현황 공유
 
-> [**마크업 언어**](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EC%97%85_%EC%96%B8%EC%96%B4)란? \
-> 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한 가지이다. (ex. HTML) \
-> <span style="color: #adb5bd">출처: 위키백과</span>
+    > [**마크업 언어**](https://ko.wikipedia.org/wiki/%EB%A7%88%ED%81%AC%EC%97%85_%EC%96%B8%EC%96%B4)란? \
+    > 태그 등을 이용하여 문서나 데이터의 구조를 명기하는 언어의 한 가지이다. (ex. HTML) \
+    > <span style="color: #adb5bd">출처: 위키백과</span>
 
 - 확장자 : `.md` ( `markdown`의 줄임말 )
 
-- 사용처 : 위키백과, TISTORY, Notion, Discord, Github, Velog 등
+- 사용처 : 위키백과, TISTORY, Notion, Discord, Github(README.md), Velog 등
+  - README.md
+    - 디렉터리나 압축 파일에 포함된 기타 파일에 대한 정보를 포함하고 있습니다. <span style="color: #adb5bd">출처: 위키백과</span>
+    - 완성된 프로그램의 설명서이자 구현중인 프로젝트의 현황을 알려주는 문서이기도 합니다.
 
 <br>
 
